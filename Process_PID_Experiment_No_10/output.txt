@@ -1,2 +1,0 @@
-Current PID: 12345
-Parent PID: 12340
